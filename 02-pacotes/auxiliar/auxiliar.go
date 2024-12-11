@@ -6,4 +6,5 @@ import (
 
 func Escrever() {
 	fmt.Println("Escrevendo do pacote auxiliar")
+	escrever2()
 }
