@@ -16,7 +16,7 @@ type estudante struct {
 }
 
 func main() {
-	fmt.Println("Herença")
+	fmt.Println("Herança")
 
 	p1 := pessoa{"Robson", "Ronzani", 28, 180}
 	fmt.Println(p1)
